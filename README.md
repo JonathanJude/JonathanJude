@@ -20,15 +20,16 @@ Here are some ideas to get you started:
 <h3 align="center">👋 Hi there! I'm Jude Jonathan</h3>
 <p align="center">
   <a href="https://judejay.me">Website</a> •
-  <a href="https://twitter.com/_JudeJay">Twitter</a>
+  <a href="https://twitter.com/_JudeJay">Twitter</a> • 
   <a href="https://www.linkedin.com/in/jude-jonathan">LinkedIn</a>
 </p>
 
 ---
-✨ I'm a software engineer
 
+- Skills: Dart • Flutter • PHP • Laravel 
+- 📫 How to reach me: jonathanjude27@gmail.com • [@_JudeJay](https://twitter.com/_JudeJay)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanJude&show_icons=true)  
 
-- 💬 Ask me about: Dart, Flutter, PHP, Laravel 
-- 📫 How to reach me: [@_JudeJay](https://twitter.com/_JudeJay)
+![Profile views](https://gpvc.arturio.dev/JonathanJude)  
 
