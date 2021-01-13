@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<h3 align="center">👋 Hi there! I'm Jude Jonathan</h3>
+<p align="center">
+  <a href="https://judejay.me">Website</a> •
+  <a href="https://twitter.com/_JudeJay">Twitter</a>
+  <a href="https://www.linkedin.com/in/jude-jonathan">LinkedIn</a>
+</p>
+
+---
+✨ I'm a software engineer
+
+
+
+- 💬 Ask me about: Dart, Flutter, PHP, Laravel 
+- 📫 How to reach me: [@_JudeJay](https://twitter.com/_JudeJay)
+
