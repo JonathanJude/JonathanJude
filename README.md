@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center">👋 Hi there! I'm Jude Jonathan</h3>
+<h3 align="center">👋 Hi there!  I'm Jude Jonathan</h3>
 <p align="center">
   <a href="https://judejay.me">Website</a> •
   <a href="https://twitter.com/_JudeJay">Twitter</a> • 
