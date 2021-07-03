@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Skills: Dart • Flutter • PHP • Laravel 
 - 📫 How to reach me: jonathanjude27@gmail.com • [@_JudeJay](https://twitter.com/_JudeJay)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanJude&show_icons=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanJude&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/JonathanJude)  
+![Profile views](https://gpvc.arturio.dev/JonathanJude)   -->
 
